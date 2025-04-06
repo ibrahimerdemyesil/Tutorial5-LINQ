@@ -1,0 +1,12 @@
+# JetBrains Rider
+.idea/
+
+# VS/Rider ayar dosyaları
+*.DotSettings.user
+
+# MacOS sistem dosyası
+.DS_Store
+
+# Derleme klasörleri (ileride)
+bin/
+obj/
