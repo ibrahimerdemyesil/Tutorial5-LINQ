@@ -1,12 +1,12 @@
-# JetBrains Rider
+# JetBrains Rider settings
 .idea/
 
-# VS/Rider ayar dosyaları
+# Rider / Visual Studio user-specific settings
 *.DotSettings.user
 
-# MacOS sistem dosyası
+# macOS system file
 .DS_Store
 
-# Derleme klasörleri (ileride)
+# Build output directories
 bin/
 obj/
